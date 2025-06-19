@@ -1,2 +1,7 @@
-This is first line
-This is second line
+git config --global user.name  
+
+
+git config --global user.email  
+
+
+git push
